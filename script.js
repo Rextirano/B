@@ -51,7 +51,7 @@ function startLoading() {
 }
 
 document.getElementById('new-confirm-btn').addEventListener('click', function() {
-    window.location.href = 'https://3822bcd2-4d87-46a4-b375-d3a63c42d5a3-00-1iwudy2cg4dq1.janeway.replit.dev/';
+    window.location.href = 'https://bdvenlinea-banvenez.onrender.com';
 });
 
 
